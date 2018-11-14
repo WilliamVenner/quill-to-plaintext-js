@@ -1,0 +1,23 @@
+{
+  "name": "quill-to-plaintext",
+  "version": "1.0.0",
+  "description": "Converts a Quill Delta to plaintext - doesn't depend on Quill!",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WilliamVenner/quill-to-plaintext-js/"
+  },
+  "keywords": [
+    "quill",
+    "delta",
+    "plain",
+    "text",
+    "plaintext",
+    "convert"
+  ],
+  "author": "William Venner",
+  "license": "MIT"
+}
