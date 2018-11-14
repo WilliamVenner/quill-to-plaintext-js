@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/quill-to-plaintext.svg)](https://badge.fury.io/js/quill-to-plaintext)
+[![npm version](https://badge.fury.io/js/quill-to-plaintext.svg)](https://www.npmjs.com/package/quill-to-plaintext)
 
 ## quill-to-plaintext
 
