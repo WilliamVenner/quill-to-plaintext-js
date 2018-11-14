@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/quill-to-plaintext.svg)](https://badge.fury.io/js/quill-to-plaintext)
 
-# quill-to-plaintext
+## quill-to-plaintext
 
 [PHP Version](https://github.com/WilliamVenner/quill-to-plaintext-php)
 
@@ -8,7 +8,7 @@ Converts a Quill Delta to plaintext. It will ignore any non-insert operations.
 
 You can either supply the JSON for a Quill Delta, or a Quill Delta object itself.
 
-# Installation
+## Installation
 
 Using npm:
 
@@ -16,7 +16,7 @@ Using npm:
 $ npm install quill-to-plaintext
 ```
 
-# How to use
+## How to use
 
 ```javascript
 const QuillToPlaintext = require('chat-arg-parser');
